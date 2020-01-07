@@ -6,7 +6,7 @@
 <script>
 
 export default {
-  asyncData() {
+  asyncData () {
     return {
       colors: ['#D53738', '#638867', '#FAF429']
     }
