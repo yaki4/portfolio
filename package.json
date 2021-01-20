@@ -15,7 +15,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/pwa": "^3.0.0-0",
     "cannon": "^0.6.2",
-    "gsap": "^3.0.4",
+    "gsap": "^3.6.0",
     "nuxt": "^2.0.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
