@@ -19,7 +19,7 @@
     "nuxt": "^2.0.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
-    "three": "^0.112.1",
+    "three": "^0.137.0",
     "three-orbitcontrols": "^2.110.3"
   },
   "devDependencies": {
